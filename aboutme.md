@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I live in Sogndal(Norway) and work as a IT-advisor for Vestland County Council in Norway.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I started my career as an IT apprentice back in 2003 and have from that day been a Microsoft fanboy - and I have been
+working my way to become a Microsoft Certified professional within Microsoft 365, Azure in addition to onpremises products.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Living in the beautiful western part of Norway sorounded with high montains and deep fjords gives me a easy way to
+disconnect from the rest of the world. During the winter season you`ll find me deep in the riding snow powder above the treelimits
+on randonee skiing, and during summer times you`ll definetly catch me on my bikecykle, kayaking or taking mountain runs.
