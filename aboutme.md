@@ -12,5 +12,5 @@ working my way to become a Microsoft Certified professional within Microsoft 365
 ### My story
 
 Living in the beautiful western part of Norway sorounded with high montains and deep fjords gives me a easy way to
-disconnect from the rest of the world. During the winter season you`ll find me deep in the riding snow powder above the treelimits
-on randonee skiing, and during summer times you`ll definetly catch me on my bikecykle, kayaking or taking mountain runs.
+disconnect from the rest of the world. During the winter season you will find me deep in the riding snow powder above the treelimits
+on randonee skiing, and during summer times you will definetly catch me on my bikecykle, kayaking or taking mountain runs.
