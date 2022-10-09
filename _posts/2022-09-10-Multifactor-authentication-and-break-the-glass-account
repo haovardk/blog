@@ -1,3 +1,14 @@
+---
+layout: post
+title: Multifactor authentication and break the glass account
+subtitle: There is a reason why you should have it
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+---
+
+
 Multifactor authentication is a hot topic. And so is the increase in securing organization accounts.
 Microsoft are providing the ability to utilize SMS, email, phone call or app authentication as a second factor in secure logins.
 
