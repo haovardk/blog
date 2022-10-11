@@ -30,7 +30,7 @@ https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency
 This account must also be excluded from the MFA registration policy in Identity Protection:
 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe](https://i.imgur.com/x2BNTtf.png){: .mx-auto.d-block :}
 
 
 
