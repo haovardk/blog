@@ -4,7 +4,7 @@ title: Multifactor authentication and break the glass account
 subtitle: There is a reason why you should have it
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Microsoft Azure, Security]
 comments: true
 ---
 
@@ -30,4 +30,5 @@ Microsoft have created a good guide for this:
 https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access#monitor-sign-in-and-audit-logs
 
 This account must also be excluded from the MFA registration policy in Identity Protection:
+
 [Imgur](https://imgur.com/fj90szT)
