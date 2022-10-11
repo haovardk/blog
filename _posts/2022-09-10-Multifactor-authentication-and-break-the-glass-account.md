@@ -2,8 +2,6 @@
 layout: post
 title: Multifactor authentication and break the glass account
 subtitle: There is a reason why you should have it
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Microsoft Azure, Security]
 comments: true
 ---
