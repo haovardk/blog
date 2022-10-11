@@ -28,4 +28,11 @@ Microsoft have created a good guide for this:
 https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access#monitor-sign-in-and-audit-logs
 
 This account must also be excluded from the MFA registration policy in Identity Protection:
+
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+
+
+
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="fj90szT"><a href="https://imgur.com/fj90szT">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
