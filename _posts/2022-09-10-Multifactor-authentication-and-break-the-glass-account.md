@@ -31,4 +31,4 @@ https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency
 
 This account must also be excluded from the MFA registration policy in Identity Protection:
 
-[Imgur](https://imgur.com/fj90szT)
+<blockquote class="imgur-embed-pub" lang="en" data-id="fj90szT"><a href="https://imgur.com/fj90szT">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
