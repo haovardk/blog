@@ -30,4 +30,4 @@ Microsoft have created a good guide for this:
 https://docs.microsoft.com/en-us/azure/active-directory/roles/security-emergency-access#monitor-sign-in-and-audit-logs
 
 This account must also be excluded from the MFA registration policy in Identity Protection:
-![IdentityProtection](https://i.imgur.com/fj90szT.png “IdentityProtection”)
+![Bobst](https://i.imgur.com/fj90szT.png “IdentityProtection”)
