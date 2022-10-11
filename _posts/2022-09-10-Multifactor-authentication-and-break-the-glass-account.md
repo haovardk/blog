@@ -31,8 +31,3 @@ This account must also be excluded from the MFA registration policy in Identity 
 
 
 ![Crepe](https://i.imgur.com/x2BNTtf.png){: .mx-auto.d-block :}
-
-
-
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="fj90szT"><a href="https://imgur.com/fj90szT">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
