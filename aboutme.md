@@ -4,10 +4,10 @@ title: About me
 subtitle: About me
 ---
 
-I live in Sogndal(Norway) and work as a IT-advisor for Vestland County Council in Norway.
+I live in Sogndal(Norway) and work as Senior SQL Database Administrator for Statkraft in Norway.
 
 I started my career as an IT apprentice back in 2003 and have from that day been a Microsoft fanboy - and I have been
-working my way to become a Microsoft Certified professional within Microsoft 365, Azure Operations, and in addition to onpremises products.
+working my way to become a Microsoft Certified professional within Microsoft 365, Azure Certified Administrator (Database)Associate, and in addition to onpremises products.
 For my full certification list please visit my MCP site[This is an external link to my MCP side](https://learn.microsoft.com/en-gb/users/havard/transcript/76yp8fpgeqk9k26?source=docs)
 
 ### My story
