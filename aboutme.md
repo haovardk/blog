@@ -4,7 +4,7 @@ title: About me
 subtitle: About me
 ---
 
-I live in Sogndal(Norway) and work as Senior SQL Database Administrator for Statkraft in Norway.
+I live in Sogndal(Norway) and work as Senior Infrastructure Engineer in Norway with focus on Microsoft 365 and Azure.
 
 I started my career as an IT apprentice back in 2003 and have from that day been a Microsoft fanboy - and I have been
 working my way to become a Microsoft Certified professional within Microsoft 365, Azure Certified Administrator (Database)Associate, and in addition to onpremises products.
